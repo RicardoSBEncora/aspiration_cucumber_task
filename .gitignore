@@ -1,0 +1,5 @@
+#Ignore gemfile lock
+Gemfile.lock
+
+#Ignore test result report
+test_results.html
